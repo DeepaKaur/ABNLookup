@@ -1,0 +1,1449 @@
+# Created at 2023-08-22T13:53:16.363
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:398)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+# Created at 2023-08-22T13:53:16.929
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:16.944
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:17.018
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:17.042
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:17.089
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:17.104
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:17.653
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:17.669
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:17.720
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:17.739
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:17.783
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:17.800
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:18.364
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:18.379
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:18.436
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:18.460
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:18.499
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:18.517
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:18.955
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:18.970
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:19.036
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:19.056
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:19.103
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:19.119
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:19.629
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:19.645
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:19.700
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:19.721
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:19.768
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:19.783
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:20.252
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:20.268
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:20.322
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:20.348
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:20.390
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:20.404
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:20.859
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:20.871
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:20.918
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:20.936
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:20.972
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:20.986
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:21.441
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:21.454
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:21.507
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:21.523
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:21.556
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:21.571
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:21.961
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:21.974
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:22.031
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:22.054
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:22.095
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:22.111
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:22.504
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:22.519
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:22.567
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:22.584
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:22.616
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:22.629
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:23.050
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:23.068
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:23.125
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:23.143
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:23.180
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:23.193
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:23.597
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:23.611
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:23.656
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:23.675
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:23.711
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:23.725
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:24.168
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:24.183
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:24.235
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:24.253
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:24.286
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:24.298
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:24.757
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:24.770
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:24.820
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:24.838
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:24.874
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:24.887
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:25.312
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:25.324
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:25.365
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:25.383
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:25.416
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:25.420
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:25.810
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:25.822
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:25.866
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:25.885
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:25.921
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:25.935
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:26.335
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:26.348
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:26.394
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:26.411
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:26.444
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:26.450
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:26.848
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:26.860
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:26.905
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:26.923
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:26.951
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:26.966
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:27.398
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:27.413
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:27.462
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:27.468
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:27.521
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:27.535
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:28.007
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:28.021
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:28.083
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:28.104
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:28.141
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:28.155
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:28.588
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:28.601
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:28.649
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:28.669
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:28.710
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:28.725
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:29.155
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:29.167
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:29.209
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:29.224
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:29.257
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:29.269
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:29.657
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:29.670
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:29.715
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:29.737
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:29.773
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:29.785
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:30.186
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:30.199
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:30.242
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:30.260
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:30.296
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:30.312
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:30.712
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:30.725
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:30.776
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:30.794
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:30.829
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:30.843
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:31.259
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:31.272
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:31.314
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:31.332
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:31.367
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:31.380
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:31.779
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:31.795
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:31.841
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:31.860
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:31.897
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:31.912
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:32.358
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:32.370
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:32.416
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:32.437
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:32.474
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:32.488
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:32.897
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:32.910
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:32.952
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:32.968
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:33.002
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:33.016
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:33.417
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:33.429
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:33.474
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:33.496
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:33.534
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:33.549
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:33.955
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:33.968
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:34.010
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:34.027
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:34.061
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:34.075
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:34.488
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:34.502
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:34.550
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:34.569
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:34.601
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:34.623
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:35.026
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:35.039
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:35.082
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:35.102
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:35.150
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:35.163
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:35.673
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:35.687
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:35.738
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:35.758
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:35.795
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:35.810
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:36.203
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:36.216
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:36.259
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:36.274
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:36.310
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:36.323
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:36.690
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:36.702
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:36.745
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:36.763
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:36.798
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:36.811
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:37.205
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:37.220
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:37.267
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:37.285
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:37.322
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:37.337
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:37.826
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:37.842
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:37.893
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:37.911
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:37.947
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:37.961
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:38.413
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:38.428
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:38.476
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:38.493
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:38.527
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:38.540
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:38.975
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:38.994
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:39.048
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:39.068
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:39.106
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:39.125
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:39.562
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:39.575
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:39.621
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:39.639
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:39.675
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:39.688
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:40.138
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:40.151
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:40.196
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:40.209
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:40.247
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:40.262
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:40.673
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:40.688
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:40.747
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:40.769
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:40.810
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:40.823
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:41.212
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:41.238
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:41.279
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:41.296
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:41.327
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:41.341
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:41.753
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:41.767
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:41.814
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:41.832
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:41.868
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:41.881
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:42.286
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:42.298
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:42.343
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:42.363
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:42.399
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:42.412
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:42.824
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:42.838
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:42.882
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:42.900
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:42.933
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:42.947
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:43.367
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:43.381
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:43.425
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:43.444
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:43.479
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:43.492
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:43.909
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:43.923
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:43.970
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:43.988
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:44.021
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:44.034
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:44.474
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:44.487
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:44.533
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:44.552
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:44.584
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:44.597
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:45.008
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:45.021
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:45.065
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:45.083
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:45.118
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:45.134
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:45.583
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:45.594
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:45.638
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:45.655
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:45.689
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:45.703
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:46.115
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:46.127
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:46.186
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:46.210
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:46.253
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:46.268
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:46.686
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:46.702
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:46.747
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:46.765
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:46.804
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:46.819
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:47.224
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:47.238
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:47.288
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:47.298
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:47.343
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:47.356
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:47.748
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:47.765
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:47.813
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:47.835
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:47.872
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:47.886
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:48.292
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:48.306
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:48.349
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:48.367
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:48.403
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:48.417
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:48.816
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:48.829
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:48.875
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:48.893
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:48.929
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:48.945
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:49.356
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:49.356
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:49.421
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:49.440
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:49.476
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:49.489
+Unexpected IOException with stream: table serach result items = 21
+
+
+# Created at 2023-08-22T13:53:49.917
+Unexpected IOException with stream: Found!!
+
+
+# Created at 2023-08-22T13:53:49.930
+Unexpected IOException with stream: Here is company name = The Trustee for MAURO BROTHERS SENIOR SUPER FUND
+
+
+# Created at 2023-08-22T13:53:49.973
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:49.991
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:50.027
+Unexpected IOException with stream: Returning web driver ChromeDriver: chrome on windows (cf77a79d352fd54deaf18d15007bfddb)
+
+
+# Created at 2023-08-22T13:53:50.041
+Unexpected IOException with stream: table serach result items = 21
+
+
