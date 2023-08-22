@@ -2,7 +2,6 @@ package steps;
 
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.After;
-import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -29,8 +28,8 @@ public class LookupSteps {
     @When("User searches the company name and submits")
     public void userSearchesTheCompanyAndSubmits(DataTable dataTable) {
         String companyName = dataTable.cell(1, 0);
-        homePage.searchABN(companyName);
-        homePage.clickSearch();
+        homePage.enterCompanyNameToSearchABN(companyName);
+        homePage.clickSearchButton();
     }
 
     @Then("Company's Abn, status is displayed")

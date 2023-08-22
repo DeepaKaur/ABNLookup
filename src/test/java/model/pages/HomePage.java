@@ -11,120 +11,70 @@ public class HomePage {
 
     }
 
-
+    //closes webdriver
     public void cleanUp() {
         System.out.println(this.getClass().getName() + " cleanUp");
         Util.closeWebDriver();
     }
 
+    //Navigates to home page for ABN lookup
     public void navigateHomePage() {
         Util.getWebDriver().get("https://abr.business.gov.au/");
     }
 
-
-    public void searchABN(String companyName) {
+    //Enters company name in the textbox
+    public void enterCompanyNameToSearchABN(String companyName) {
         Util.getWebDriver().findElement(By.id("SearchText")).sendKeys(companyName);
     }
 
-    public void clickSearch() {
+    //Clicks on the searchglass button
+    public void clickSearchButton() {
         Util.getWebDriver().findElement(By.id("MainSearchButton")).click();
     }
 
-    public boolean validateResultsOverVisibleTable(String abn, String status) {
+    //Validates ABN and Status in the search results displayed on screen
+    public boolean validateResultsOverVisibleTable(String expectedABN, String expectedStatus) {
 
-        abn = abn.replaceAll("\\s", "");
-        status = status.replaceAll("\\s", "");
+        //trim the spaces out of variables for string comparison
+        expectedABN = expectedABN.replaceAll("\\s", "");
+        expectedStatus = expectedStatus.replaceAll("\\s", "");
+
+        //gets row from the search results table
         List<WebElement> items = Util.getWebDriver().findElements(By.xpath("//tbody/tr"));
         System.out.println("table serach result items = " + items.size());
 
-        //process headings
+        //process headings row
         List<WebElement> headings = items.get(0).findElements(By.xpath("./th"));
         int abnPosition = -1;
+        abnPosition = findABNIndexInRow(headings);
 
-        //find index of ABN in the row
-        for (int index = 0; index < headings.size(); index++) {
-            if (headings.get(index).getText().equals("ABN")) {
-                abnPosition = index;
-            }
-        }
         if (abnPosition < 0) {
             System.out.println("ABN not part of the table");
             return false;
         }
 
-        //remove th header
+        //remove th header from the search table results list
         items.remove(0);
 
-        //compare for abn and status
+        //compare for abn and status in the search results to match with the expected results
         for (WebElement item : items) {
             List<WebElement> details = item.findElements(By.xpath("./td"));
-            String verifyabn = details.get(abnPosition).findElement(By.xpath("./a")).getText().replaceAll("\\s", "");
-            String verifystatus = details.get(abnPosition).findElement(By.xpath("./span")).getText().replaceAll("\\s", "");
-            if (verifyabn.equals(abn) && verifystatus.equals(status)) {
-                System.out.println("Found!!");
+            String actualABN = details.get(abnPosition).findElement(By.xpath("./a")).getText().replaceAll("\\s", "");
+            String actualStatus = details.get(abnPosition).findElement(By.xpath("./span")).getText().replaceAll("\\s", "");
+            if (actualABN.equals(expectedABN) && actualStatus.equals(expectedStatus)) {
+                System.out.println("Found record!!");
                 return true;
             }
         }
         return false;
     }
 
-
-    public boolean validateAbnAndCompanynameOverVisibleTable(String abn, String status, String name) {
-
-        abn = abn.replaceAll("\\s", "");
-        status = status.replaceAll("\\s", "");
-        name = name.replaceAll("\\s","");
-        List<WebElement> items = Util.getWebDriver().findElements(By.xpath("//tbody/tr"));
-        System.out.println("table serach result items = " + items.size());
-
-        //process headings
-        List<WebElement> headings = items.get(0).findElements(By.xpath("./th"));
-        int abnPosition = -1;
-        int namePosition = -1;
-
-        //find index of ABN in the row
-        for (int index = 0; index < headings.size(); index++) {
-            if (headings.get(index).getText().equals("ABN")) {
-                abnPosition = index;
-            }
-        }
-
-        //find index of company name in the row
-        for (int index = 0; index < headings.size(); index++) {
-            if (headings.get(index).getText().equals("Name")) {
-                namePosition = index;
-            }
-
-        }
-        if (abnPosition < 0 || namePosition < 0) {
-            System.out.println("ABN/Name not part of the table");
-            return false;
-        }
-
-        //remove th header
-        items.remove(0);
-
-        //compare for abn and status
-        for (WebElement item : items) {
-            List<WebElement> details = item.findElements(By.xpath("./td"));
-            String verifyabn = details.get(abnPosition).findElement(By.xpath("./a")).getText().replaceAll("\\s", "");
-            String verifystatus = details.get(abnPosition).findElement(By.xpath("./span")).getText().replaceAll("\\s", "");
-            String verifyName = details.get(namePosition).getText().replaceAll("\\s","");
-            if (verifyabn.equals(abn.replaceAll("\\s", "")) && verifystatus.equals(status.replaceAll("\\s", ""))) {
-                System.out.println("Found!!");
-                System.out.println("verifying name " + name + "with result" + verifyName);
-
-                return true;
-            }
-        }
-        return false;
-    }
-
+    //navigates to next page on search results
     public void navigateResultsNextPage() {
             Util.getWebDriver().findElement(By.className("PagedList-skipToNext")).click();
         }
 
-
+    //checks if next page is available for search results
     public boolean isNextPageAvailable() {
         if(Util.getWebDriver().findElement(By.className("PagedList-skipToNext")).isEnabled())
             return true;
@@ -132,6 +82,7 @@ public class HomePage {
             return false;
     }
 
+    //finds position for 'ABN' column header in the search result table
     public int findABNIndexInRow(List<WebElement> headings){
         int abnIndex = -1;
         //find index of ABN in the row
@@ -142,6 +93,8 @@ public class HomePage {
         }
         return abnIndex;
     }
+
+    //finds position for 'Name' (company name) column header in the search result table
     public int findNameIndexInRow(List<WebElement> headings){
         int nameIndex = -1;
         //find index of Name in the row
@@ -153,9 +106,10 @@ public class HomePage {
         return nameIndex;
     }
 
-    public boolean searchABNInSearchResultsTableandMatchCompany(String abnNumber,String companyName) {
-        abnNumber = abnNumber.replaceAll("\\s", "");
-        companyName = companyName.replaceAll("\\s", "");
+    //verifies if the expected ABN is present in the search results and verifies with the expected company name for that ABN
+    public boolean searchABNInSearchResultsTableandMatchCompany(String expectedAbnNumber,String expectedCompanyName) {
+        expectedAbnNumber = expectedAbnNumber.replaceAll("\\s", "");
+        expectedCompanyName = expectedCompanyName.replaceAll("\\s", "");
 
         List<WebElement> items = Util.getWebDriver().findElements(By.xpath("//tbody/tr"));
         System.out.println("table serach result items = " + items.size());
@@ -177,15 +131,15 @@ public class HomePage {
         //remove th header
         items.remove(0);
 
-        //compare for abn and status
+        //compare for abn and if present then verify the expected company name
         for (WebElement item : items) {
             List<WebElement> details = item.findElements(By.xpath("./td"));
-            String verifyabn = details.get(abnPosition).findElement(By.xpath("./a")).getText().replaceAll("\\s", "");
-            if (verifyabn.equals(abnNumber)) {
+            String actualAbn = details.get(abnPosition).findElement(By.xpath("./a")).getText().replaceAll("\\s", "");
+            if (actualAbn.equals(expectedAbnNumber)) {
                 System.out.println("Found!!");
-                String verifyName = details.get(namePosition).getText();
-                System.out.println("Here is company name = " + verifyName);
-                if(verifyName.replaceAll("\\s","").equals(companyName)) {
+                String actualCompanyName = details.get(namePosition).getText();
+                System.out.println("Here is company name = " + actualCompanyName);
+                if(actualCompanyName.replaceAll("\\s","").equals(expectedCompanyName)) {
                     return true;
                 }
             }
