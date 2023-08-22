@@ -5,7 +5,7 @@ Tech stack - Java, Selenium, Cucumber, JUnit
 
 
 To run, clone the git repository using following command on the terminal 
-Pre-requisite to run - java version 9 or later
+Pre-requisite to run - java version 9 or later and maven
   1. git clone https://github.com/DeepaKaur/ABNLookup.git
   2. cd ABNLookup
   3. mvn test-compile
@@ -17,11 +17,11 @@ C:.
 ├───src
 │   ├───main
 │   │   └───java
-│   │       └───org
+│   │       └───org      
 │   │           └───example
 │   └───test
 │       ├───java
-│       │   ├───common
+│       │   ├───common                
 │       │   ├───model
     ├───maven-status
     │   └───maven-compiler-plugin
