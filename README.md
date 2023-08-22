@@ -21,18 +21,10 @@ C:.
 │   │           └───example
 │   └───test
 │       ├───java
-│       │   ├───common                
-│       │   ├───model
-    ├───maven-status
-    │   └───maven-compiler-plugin
-    │       ├───compile
-    │       │   └───default-compile
-    │       └───testCompile
-    │           └───default-testCompile
-    ├───surefire-reports
-    └───test-classes
-        ├───common
-        ├───features
-        ├───model
-        │   └───pages
-        └───steps
+          ├───common
+          ├───features
+          ├───model
+          │     └───pages
+          └───steps
+        ├───resources
+          ├───features
